@@ -1,6 +1,6 @@
 Reference number: RES-INT-037
 
-Primary author: Petro Margaritis
+Primary author: Rujul Trivedi
 
 This page describes the Code Management practices stage of the Software Development Life Cycle (SDLC) for College Applications.
 
