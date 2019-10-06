@@ -2,7 +2,6 @@ Primary author: Ruchita Joshi
 
 This page describes the Code Management practices stage of the Software Development Life Cycle (SDLC) for College Applications.
 
-
 # Table of contents
 
   * [Overview](#overview)
